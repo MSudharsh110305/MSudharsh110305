@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSudharsh110305
+- 👋 Hi, I’m @Sudharsh
 - 👀 I’m interested in new trends in AI and cyber security
 - 🌱 I’m currently learning everything I find interesting
 - 💞️ I’m looking to collaborate on ...
