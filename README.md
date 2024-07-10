@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sudharsh
-- 👀 I’m interested in new trends in AI and cyber security
+- 👀 I’m interested in new trends in AI,IoT and cyber security 
 - 🌱 I’m currently learning everything I find interesting
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IoT, AI projects
 - 📫 How to reach me sudharshm2005@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Though I may have moments of leisure, when energized, I'm potent, swiftly tackling tasks with focused determination.
